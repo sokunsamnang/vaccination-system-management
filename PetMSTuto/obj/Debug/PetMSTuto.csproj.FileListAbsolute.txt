@@ -32,3 +32,39 @@ C:\Users\ASUS\Desktop\PetShop\PetMSTuto\PetMSTuto\obj\Debug\PetMSTuto.csproj.Cor
 C:\Users\ASUS\Desktop\PetShop\PetMSTuto\PetMSTuto\obj\Debug\PetMSTuto.csproj.CopyComplete
 C:\Users\ASUS\Desktop\PetShop\PetMSTuto\PetMSTuto\obj\Debug\PetMSTuto.exe
 C:\Users\ASUS\Desktop\PetShop\PetMSTuto\PetMSTuto\obj\Debug\PetMSTuto.pdb
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\PetMSTuto.exe.config
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\PetMSTuto.exe
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\PetMSTuto.pdb
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.AssemblyReference.cache
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Billings.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Customers.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Employees.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Homes.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Login.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Products.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Splash.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Properties.Resources.resources
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.GenerateResource.cache
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.CoreCompileInputs.cache
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.CopyComplete
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.exe
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.pdb
+D:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\Guna.UI2.dll
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\PetMSTuto.exe.config
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\PetMSTuto.exe
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\PetMSTuto.pdb
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\bin\Debug\Guna.UI2.dll
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.AssemblyReference.cache
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Billings.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Customers.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Employees.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Homes.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Login.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Products.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Splash.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.Properties.Resources.resources
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.GenerateResource.cache
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.csproj.CopyComplete
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.exe
+E:\My Code\C#\Year 4\vaccination-system-management\PetMSTuto\obj\Debug\PetMSTuto.pdb

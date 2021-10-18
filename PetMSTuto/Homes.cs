@@ -16,10 +16,8 @@ namespace PetMSTuto
         public Homes()
         {
             InitializeComponent();
-            CountDogs();
-            CountBirds();
-            CountCats();
-            Finance();
+            CountOverallVaccination();
+            CountTodayVaccination();
         }
 
         private void label5_Click(object sender, EventArgs e)
@@ -36,22 +34,16 @@ namespace PetMSTuto
             this.Hide();
         }
        
-        private void CountDogs()
+        private void CountOverallVaccination()
         {
+
         }
-        private void Finance()
-        {
-           
-        
-        }
-        private void CountBirds()
+
+        private void CountTodayVaccination()
         {
            
         }
-        private void CountCats()
-        {
-          
-        }
+
         private void label6_Click(object sender, EventArgs e)
         {
             Login Obj = new Login();
@@ -61,6 +53,7 @@ namespace PetMSTuto
 
         private void label1_Click(object sender, EventArgs e)
         {
+            lbViewData.Cursor = Cursors.Hand;
             Products Obj = new Products();
             Obj.Show();
             this.Hide();
@@ -78,6 +71,11 @@ namespace PetMSTuto
             Customers Obj = new Customers();
             Obj.Show();
             this.Hide();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
