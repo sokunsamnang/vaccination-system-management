@@ -55,17 +55,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Billings.cs">
+    <Compile Include="AddData.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Billings.Designer.cs">
-      <DependentUpon>Billings.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Customers.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Customers.Designer.cs">
-      <DependentUpon>Customers.cs</DependentUpon>
+    <Compile Include="AddData.Designer.cs">
+      <DependentUpon>AddData.cs</DependentUpon>
     </Compile>
     <Compile Include="Employees.cs">
       <SubType>Form</SubType>
@@ -85,12 +79,6 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="Products.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Products.Designer.cs">
-      <DependentUpon>Products.cs</DependentUpon>
-    </Compile>
     <Compile Include="Splash.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,11 +87,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Billings.resx">
-      <DependentUpon>Billings.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Customers.resx">
-      <DependentUpon>Customers.cs</DependentUpon>
+    <EmbeddedResource Include="AddData.resx">
+      <DependentUpon>AddData.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Employees.resx">
       <DependentUpon>Employees.cs</DependentUpon>
@@ -113,9 +98,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Products.resx">
-      <DependentUpon>Products.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Splash.resx">
       <DependentUpon>Splash.cs</DependentUpon>

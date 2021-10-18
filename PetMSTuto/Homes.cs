@@ -20,13 +20,6 @@ namespace PetMSTuto
             CountTodayVaccination();
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-            Billings Obj = new Billings();
-            Obj.Show();
-            this.Hide();
-        }
-
         private void label2_Click(object sender, EventArgs e)
         {
             Homes Obj = new Homes();
@@ -51,24 +44,9 @@ namespace PetMSTuto
             this.Hide();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-            lbViewData.Cursor = Cursors.Hand;
-            Products Obj = new Products();
-            Obj.Show();
-            this.Hide();
-        }
-
         private void label3_Click(object sender, EventArgs e)
         {
             Employees Obj = new Employees();
-            Obj.Show();
-            this.Hide();
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-            Customers Obj = new Customers();
             Obj.Show();
             this.Hide();
         }
@@ -77,5 +55,24 @@ namespace PetMSTuto
         {
 
         }
+
+        private void panelCreateNew_Click(object sender, EventArgs e)
+        {
+            AddData Obj = new AddData();
+            Obj.Show();
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            AddData Obj = new AddData();
+            Obj.Show();
+        }
+
+        private void lbCreateNew_Click(object sender, EventArgs e)
+        {
+            AddData Obj = new AddData();
+            Obj.Show();
+        }
+
     }
 }

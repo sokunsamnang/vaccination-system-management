@@ -86,20 +86,6 @@ namespace PetMSTuto
             }
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-            Customers obj = new Customers();
-            obj.Show();
-            this.Hide();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-            Products obj = new Products();
-            obj.Show();
-            this.Hide();
-        }
-
         private void label2_Click(object sender, EventArgs e)
         {
             Homes obj = new Homes();
@@ -107,19 +93,29 @@ namespace PetMSTuto
             this.Hide();
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-            Billings obj = new Billings();
-            obj.Show();
-            this.Hide();
-
-        }
-
         private void label6_Click(object sender, EventArgs e)
         {
             Login Obj = new Login();
             Obj.Show();
             this.Hide();
+        }
+
+        private void panelCreateNew_Click(object sender, EventArgs e)
+        {
+            AddData Obj = new AddData();
+            Obj.Show();
+        }
+
+        private void lbCreateNew_Click(object sender, EventArgs e)
+        {
+            AddData Obj = new AddData();
+            Obj.Show();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            AddData Obj = new AddData();
+            Obj.Show();
         }
     }
 }
